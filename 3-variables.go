@@ -1,7 +1,7 @@
 package main
 import "fmt"
 
-func main2(){
+func main(){
 	var a ="initial"
 	fmt.Println(a)
 
